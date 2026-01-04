@@ -1,4 +1,4 @@
-# 🚀 Signup API (Node.js + Express + MongoDB)
+# 🚀 Signup API (Node.js + Express + RequestValidation +Middleware +  MongoDB)
 
 This project is a simple and industry-standard **User Signup REST API** built using **Node.js, Express.js, and MongoDB**.  
 It demonstrates clean backend architecture, request validation, and database integration following best practices.
